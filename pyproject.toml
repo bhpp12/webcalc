@@ -3,7 +3,7 @@ name = "webcalc"
 version = "0.0.1"
 description = "Uma calculadora web baseada em Flask"
 authors = [
-    {name = "Seu Nome",email = "eu.email@exemplo.com"}
+    {name = "Bruno Henrique Pacheco Prudencio",email = "brunohenriquepp12@gmail.com"}
 ]
 
 requires-python = ">=3.9"
